@@ -1,5 +1,10 @@
-### Hi there 👋
+### ola Este é meu portifolio 👋
 
+
+## Darlan kennedy oliveira dos santos
+
+<p>Sou programador desde 2013 aonde cursei tecnico em informatica</p>
+<p>Aqui você vera um pouco dos meu conhecimentos com alguns projetos que estão em desenvolvimento</p>
 <!--
 **darlankennedy/darlankennedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
