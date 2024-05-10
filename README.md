@@ -1,7 +1,7 @@
-### ola Este é meu portifolio 👋
+### Olá , Eu sou Darlan kennedy - Desevolvedor Full stack 👋
 
 
-## Darlan kennedy oliveira dos santos
+## Darlan Kennedy Oliveira Dos Santos
 
 <p>Sou programador desde 2013 aonde cursei tecnico em informatica</p>
 <p>Aqui você vera um pouco dos meu conhecimentos com alguns projetos que estão em desenvolvimento</p>
